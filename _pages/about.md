@@ -28,11 +28,12 @@ xxx
 ## Teaching
 
 ## Services
-  ### Journal Associate Editor
-  #### TKDD
 
-  ### Journal Reviewer
-  #### TKDE VLDBJ TODS
+### Journal Associate Editor
+#### TKDD
+
+### Journal Reviewer
+#### TKDE VLDBJ TODS
 
 ### Conference
 
